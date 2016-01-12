@@ -1,4 +1,4 @@
-RNGridMenuSwift
+RNGridMenu using Swift (Tony Medrano)
 ===========
 
 A grid based menu view with field depth and bounce animation: inspired by Mailbox, and extended for multiple needs. I created this project out of a stint of boredom. This control is customizable to a degree, but kept simple so you can take it and spin your own subclass or fork out of it.
